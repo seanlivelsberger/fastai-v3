@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/open?id=15S5hg_l2WkGyPTnRJhxRvmPGQIws0HMy'
+export_file_url = 'https://drive.google.com/uc?export=download&id=15S5hg_l2WkGyPTnRJhxRvmPGQIws0HMy'
 export_file_name = 'export.pkl'
 
 classes = ['aarkcopenhagen','adidas','airjordan','allbirds','asics','balenciaga','brandblack','burberry','clae','coach','commonprojects','converse','fendi','goldengoose','gucci','newbalance','nike','prada','puma','reebok','saucony','vans','veja','yeezy','yvessaintlaurent']
